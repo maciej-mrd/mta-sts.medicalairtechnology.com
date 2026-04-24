@@ -1,0 +1,4 @@
+version: STS1
+mode: enforce
+mx: medicalairtechnology-com.mail.protection.outlook.com
+max_age: 86400
